@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Expressify</string>
+    <string name="health1">Enjoy yourself!! Simple activities like watching sports with a friend, having a soak in the bath, or meeting up with friends for coffee can all Improve your day. Doing something you\'re good at, such as cooking or dancing, is a good way to enjoy yourself and have a sense of achievement.</string>
+    <string name="sad">Just talking things through with a person we trust can help and feel like a relief. Use your own words. It\'ll make you feel safer and less alone, and that will help protect your mental health and prevent problems. Talking may also change how you see and feel about the situation in ways you find helpful.</string>
+    <string name="fear">Acknowledge Your Fear: The first step in overcoming fear is to acknowledge its presence. Recognize that fear is a natural emotion and that it\'s okay to feel afraid. Identify the Source: Try to pinpoint what exactly you\'re afraid of. Understanding the root cause of your fear can help you address it more effectively.</string>
+    <string name="surprise">Stay Calm: When faced with a surprise, take a deep breath and try to remain calm. Panic and stress can cloud your judgment and make it harder to think clearly.
+Assess the Situation: Quickly assess the situation to understand what\'s happening and determine the level of urgency. Gather as much information as you can to make informed decisions.
+Adaptability: Be flexible and adaptable in your response to surprises. Recognize that plans may need to change, and be open to adjusting your approach accordingly.</string>
+<string name="angry">Simple relaxation tools, such as deep breathing and relaxing imagery, can help calm down angry feelings. There are books and courses that can teach you relaxation techniques, and once you learn the techniques, you can call upon them in any situation.</string>
+</resources>
